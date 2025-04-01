@@ -1,13 +1,26 @@
-Copyright (c) [YEAR] [Your Name or Your Bot's Name]
+Copyright (c) [YEAR] [Viralify Strikes]
 
 All rights reserved.
 
-This software is licensed for personal use only. Unauthorized copying, distribution, or modification of this bot or its code is prohibited.
+This software is provided for **personal use only**. Unauthorized copying, distribution, modification, or redistribution of the source code or compiled version of this bot is strictly prohibited.
 
-You may not:
-- Copy, distribute, or redistribute this bot's source code without explicit permission from the author.
-- Use this bot for commercial purposes unless otherwise agreed upon.
+### Terms of Use:
+1. **Non-Transferable License**: You are granted a personal, non-transferable, non-exclusive license to use this bot, subject to these terms. You may not sublicense, lease, or otherwise transfer the bot to any third party.
+  
+2. **Modification Restrictions**: You are not permitted to modify, reverse-engineer, disassemble, or decompile the bot in any form. Any modifications or attempts to reverse-engineer the code will result in an immediate revocation of your usage rights.
 
-This bot is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the author or copyright holder be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+3. **Prohibited Use**: 
+   - You may not use this bot for any commercial purposes, including but not limited to, generating revenue or offering paid services.
+   - You may not use this bot in any activity that violates the **Discord Terms of Service** or any applicable laws.
 
-If you violate any of the above terms, your access to the software will be revoked.
+4. **Redistribution**: You may not redistribute or publish the source code, modified versions, or any part of the bot without prior written consent from the author.
+
+5. **No Warranty**: This bot is provided "as-is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the author or copyright holder be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+6. **Termination**: If you violate any of the above terms, your right to use the bot may be revoked at any time. You must immediately cease using the bot and remove it from any servers or platforms where it is deployed.
+
+7. **Privacy & Data**: 
+   - The bot may collect personal data or server information for functionality purposes. This data will be handled according to applicable privacy laws.
+   - The bot should not be used to collect sensitive data without clear consent from users.
+
+By using this bot, you agree to abide by all of the above terms. If you do not agree to these terms, you must cease use of the bot immediately.
